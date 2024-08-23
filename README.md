@@ -5,7 +5,7 @@ GoMLP is a simple implementation of a multilayer perceptron (MLP) neural network
 
 The network has flexible architecture, allowing customization of network parameters such as the number of layers, neurons per layer, activation and loss functions, and learning rate.
 
-This network achieved a 96%+ accuracy on the MNIST dataset. The network can be trained on the MNIST dataset using `main.go`.
+This network achieved a 96.8% accuracy on the MNIST dataset. The network can be trained on the MNIST dataset using `main.go`.
 
 ## Install and Run
 
